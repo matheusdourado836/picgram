@@ -2,7 +2,7 @@
 
 Um projeto Flutter feito para representar um clone do aplicativo Instagram.
 
-## Getting Started
+## Funcionalidades
 
 - Cadastro de usuário;
 - Postagem de fotos;
